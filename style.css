@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+.con{
+    height:100vh;
+    
+}
+.d{
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 30px;
+    line-height: 260px;
+    align-items: center;
+}
+.one{
+    background: rgb(165,120,224);
+    background: linear-gradient(140deg, rgba(165,120,224,1) 10%, rgba(212,66,108,1) 94%);
+}
+.two{
+    background: rgb(246,190,125);
+    background: linear-gradient(141deg, rgba(246,190,125,1) 10%, rgba(230,141,141,1) 48%);
+}
+.tree{
+    background: rgb(119,77,169);
+    background: linear-gradient(141deg, rgba(119,77,169,1) 14%, rgba(103,135,229,1) 97%);
+}
+h1{
+    margin-left: 15px;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.685)
+}
+.tree:hover{
+    background: rgb(78,46,116);
+background: linear-gradient(141deg, rgba(78,46,116,1) 25%, rgba(62,89,168,1) 97%);
+}
+.two:hover{
+    background: rgb(235,175,106);
+    background: linear-gradient(141deg, rgba(235,175,106,1) 25%, rgba(162,36,72,1) 82%);
+}
+.one:hover{
+    background: rgb(116,67,181);
+background: linear-gradient(141deg, rgba(116,67,181,1) 25%, rgba(162,36,72,1) 97%);
+}
